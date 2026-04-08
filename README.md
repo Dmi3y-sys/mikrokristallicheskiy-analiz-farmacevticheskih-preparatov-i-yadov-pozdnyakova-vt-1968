@@ -1,4 +1,3 @@
-# mikrokristallicheskiy-analiz-farmacevticheskih-preparatov-i-yadov-pozdnyakova-vt-1968
 # Микрокристаллический анализ фармацевтических препаратов и ядов
 
 **Автор:** В. Т. Поздняков  
