@@ -9,7 +9,7 @@
 ## Оглавление
 
 - [Предисловие](docs/01-predislovie.md)
-- [Введение](docs/02-vvedenie.md)
+- [ТЕОРЕТИЧЕСКОЕ ОБОСНОВАНИЕ АНАЛИЗА](docs/02-teoreticheskoe-obosnovanie.md)
 - [Глава 1. ...](docs/03-glava1.md)
 - ...
 
