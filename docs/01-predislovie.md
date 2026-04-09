@@ -50,4 +50,4 @@
 
 ---
 
-[← К оглавлению](../README.md) | [Следующий раздел →](./02-vvedenie.md)
+[← К оглавлению](../README.md) | [Следующий раздел →](./02-teoreticheskoe-obosnovanie.md)
